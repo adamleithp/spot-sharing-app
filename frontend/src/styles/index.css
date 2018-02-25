@@ -1,0 +1,43 @@
+html {
+  font-size: 16px;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+ul {
+
+}
+
+
+.input {
+  background: #fff;
+  border: 1px solid #ccc;
+  color: #444;
+  padding: .5rem;
+  font-size: 1rem;
+  width: 100%;
+}
+
+.btn {
+  -webkit-appearance: none;
+  background: #f3f3f3;
+  border: 1px solid #ccc;
+  color: #444;
+  padding: .5rem;
+  font-size: 1rem;
+  width: 100%;
+  cursor: pointer;
+  user-select: none;
+}
+
+.btn-danger {
+  background: #ff4136;
+  color:#fff;
+}

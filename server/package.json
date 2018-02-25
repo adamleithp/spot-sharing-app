@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "graphql-yoga": "1.2.0",
+    "shortid": "^2.2.8"
+  },
+  "devDependencies": {}
+}
